@@ -14,6 +14,7 @@ public class Archivo {
     boolean color;
     
     public Archivo(){
+        //Comentario de prueba
         this.nombre = "";
         this.extension = "JPG";
         this.ubicacion = "C:\\fotos";
